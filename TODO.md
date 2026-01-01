@@ -1,0 +1,4 @@
+- [x] Fix syntax errors in App.jsx
+- [x] Add error styling in App.css
+- [x] Run the app to verify
+- [x] Test the functionality
