@@ -36,4 +36,5 @@ Contributing
 
 Feel free to open issues or pull requests to add features like animation tweaks, form integration, or tests.
 
+-\ --- IGNORE ---
 ```
